@@ -1,0 +1,10 @@
+﻿{"chairs":[
+{"macAddres":"309C2364643C","position":{"x":0.0,"y":0.0,"z":1.5},"rotation":{"x":0.0,"y":90.0,"z":0.0},"connected":true,"working":true},
+{"macAddres":"C85B76E9FD15","position":{"x":1.061,"y":0.0,"z":1.061},"rotation":{"x":0.0,"y":135.0,"z":0.0},"connected":false,"working":true},
+{"macAddres":"D8CB8A5975EB","position":{"x":1.5,"y":0.0,"z":0.0},"rotation":{"x":0.0,"y":180.0,"z":0.0},"connected":true,"working":true},
+{"macAddres":"309C23646312","position":{"x":1.061,"y":0.0,"z":-1.061},"rotation":{"x":0.0,"y":225.0,"z":0.0},"connected":true,"working":true},
+{"macAddres":"309C23646316","position":{"x":0.0,"y":0.0,"z":-1.5},"rotation":{"x":0.0,"y":-90.0,"z":0.0},"connected":true,"working":false},
+{"macAddres":"309C23646317","position":{"x":-1.061,"y":0.0,"z":-1.061},"rotation":{"x":0.0,"y":-45.0,"z":0.0},"connected":true,"working":true},
+{"macAddres":"701CE777BB82","position":{"x":-1.5,"y":0.0,"z":0.0},"rotation":{"x":0.0,"y":0.0,"z":0.0},"connected":true,"working":true},
+{"macAddres":"309C2364643C","position":{"x":-1.061,"y":0.0,"z":1.061},"rotation":{"x":0.0,"y":45.0,"z":0.0},"connected":true,"working":true}]}
+

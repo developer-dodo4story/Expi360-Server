@@ -1,0 +1,9 @@
+﻿{"chairs":[
+{"position":{"x":0.0,"y":0.0,"z":1.5},"rotation":{"x":0.0,"y":90.0,"z":0.0},"connected":true,"working":true},
+{"position":{"x":1.061,"y":0.0,"z":1.061},"rotation":{"x":0.0,"y":135.0,"z":0.0},"connected":false,"working":true},
+{"position":{"x":1.5,"y":0.0,"z":0.0},"rotation":{"x":0.0,"y":180.0,"z":0.0},"connected":true,"working":true},
+{"position":{"x":1.061,"y":0.0,"z":-1.061},"rotation":{"x":0.0,"y":225.0,"z":0.0},"connected":true,"working":true},
+{"position":{"x":0.0,"y":0.0,"z":-1.5},"rotation":{"x":0.0,"y":-90.0,"z":0.0},"connected":true,"working":false},
+{"position":{"x":-1.061,"y":0.0,"z":-1.061},"rotation":{"x":0.0,"y":-45.0,"z":0.0},"connected":true,"working":true},
+{"position":{"x":-1.5,"y":0.0,"z":0.0},"rotation":{"x":0.0,"y":0.0,"z":0.0},"connected":true,"working":true},
+{"position":{"x":-1.061,"y":0.0,"z":1.061},"rotation":{"x":0.0,"y":45.0,"z":0.0},"connected":true,"working":true}]}

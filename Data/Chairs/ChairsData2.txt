@@ -1,0 +1,1 @@
+﻿{"chairs":[{"macAddres":"309C23646312","position":{"x":0.0,"y":0.0,"z":0.0},"rotation":{"x":1.0,"y":1.0,"z":1.0},"connected":true,"working":true},{"macAddres":"MacAddres","position":{"x":0.0,"y":0.0,"z":0.0},"rotation":{"x":1.0,"y":1.0,"z":1.0},"connected":true,"working":true}]}
